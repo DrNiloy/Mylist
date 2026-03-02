@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/d8/Channel_24.png/revision/latest?cb=20231125044144",Channel 24 HD
 http://103.229.254.25:7001/play/a05n/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Channel_i_HD_logo_2021.png/revision/latest?cb=20250714124349",Channel I HD
+http://103.229.254.25:7001/play/a06e/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/ATN_News_logo.svg/revision/latest?cb=20260127200826",ATN NEWS
+http://103.229.254.25:7001/play/a05u/index.m3u8
 #EXTINF:-1 group-title="-", TEN 3 Hindi
 http://103.229.254.25:7001/play/a09q/index.m3u8
 #EXTINF:-1 group-title="-",& PICTURE HD
@@ -35,8 +39,6 @@ http://103.229.254.25:7001/play/a07w/index.m3u8
 http://103.229.254.25:7001/play/a07u/index.m3u8
 #EXTINF:-1 group-title="-",ATN Bangla
 http://103.229.254.25:7001/play/a06b/index.m3u8
-#EXTINF:-1 group-title="-",ATN News
-http://103.229.254.25:7001/play/a05u/index.m3u8
 #EXTINF:-1 group-title="-",Ananda TV
 http://103.229.254.25:7001/play/a05v/index.m3u8
 #EXTINF:-1 group-title="-",Animal Planet HD  - Rs 5.00
@@ -74,11 +76,7 @@ http://103.229.254.25:7001/play/a077/index.m3u8
 #EXTINF:-1 group-title="-",COLORS BANGLA/ENC 70006
 http://103.229.254.25:7001/play/a076/index.m3u8
 #EXTINF:-1 group-title="-",Cartoon Network - Rs 5.00
-http://103.229.254.25:7001/play/a0cn/index.m3u8
-#EXTINF:-1 group-title="-",Channel 24HD
 http://103.229.254.25:7001/play/a05n/index.m3u8
-#EXTINF:-1 group-title="-",Channel I HD
-http://103.229.254.25:7001/play/a06e/index.m3u8
 #EXTINF:-1 group-title="-",Channel S
 http://103.229.254.25:7001/play/a060/index.m3u8
 #EXTINF:-1 group-title="-",Cnal SPorts
