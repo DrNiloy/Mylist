@@ -446,6 +446,6 @@ https://restream-bay.vercel.app/?id=206315&e=.m3u8
 #EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="jalshamovieshd.in",IN: JALSHA MOVIES (4K)*
 https://restream-bay.vercel.app/?id=206320&e=.m3u8
 -------------------Movie---------------
-#EXTINF:1460 group-title="MOVIE",Life of Pi
+#EXTINF:-1 group-title="English Movie",Life of Pi
 http://content4.discoveryftp.net/secure/d6zinfxQi6RpBeeM7S305Q/1772664085/Movies/English/2012/Life%20of%20Pi/Life%20of%20Pi%20%282012%29%20%5BWorldfree4u.trade%5D%201080p%20BRRip%20x264%20%5BDual%20Audio%5D%20%5BHindi%20DD%205.1%20+%20English%20DD%205.1%5D.mkv
         
